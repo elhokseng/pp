@@ -1,0 +1,21 @@
+.nav-item{
+    padding-left: 35px;
+}
+.cover_img{
+    background-size: cover;
+    width: 119rem;
+    height: 30rem;
+}
+.text_price{
+    margin-top: -15px;
+}
+.row .col{
+    padding: 80px;
+}
+li{
+    margin-top: 15px;
+}
+.map{
+    width: 400px;
+    height: 200px;
+}
