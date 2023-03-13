@@ -34,8 +34,25 @@ li{
     margin-top: 10px;
     border: 0;
     border-bottom: 1px solid;
-    color: gray
 }
 .contact_wrap_form{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
+.about_pic{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.about_section{
+    padding-top: 150px;
+    padding-bottom: 170px;
+}
+.readmore {
+    box-shadow: 
+    0 0 10px rgba(0, 0, 0, 0.2), 
+    0 0 20px rgba(0, 0, 0, 0.1), 
+    0 0 30px rgba(0, 0, 0, 0.05);
+}
+.bg_about_us{
+    background-color: red;
+}  
