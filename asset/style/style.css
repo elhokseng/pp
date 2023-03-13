@@ -9,7 +9,7 @@
 .text_price{
     margin-top: -15px;
 }
-.row .col{
+.row_content .col_content{
     padding: 80px;
 }
 li{
@@ -18,4 +18,24 @@ li{
 .map{
     width: 400px;
     height: 200px;
+}
+.foter_link{
+    text-decoration: none;
+    color: white;   
+}
+.ct-text{
+    margin-top: 10px;
+}
+.contact-pic{
+    width: 500px;   
+    height: 500px;
+}
+.ct-form{
+    margin-top: 10px;
+    border: 0;
+    border-bottom: 1px solid;
+    color: gray
+}
+.contact_wrap_form{
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
